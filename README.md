@@ -12,6 +12,9 @@ rebuilding them with Power BI to expand beyond the tools I used on the job.
 I hold an Operations Management degree and am self-taught in Python, 
 BigQuery, Power BI, and Excel (Power Query, Power Pivot, DAX, VBA).
 
+## You can access my projects here:
+[My Portfolio](./Business-Analyst-Data-Analyst-Portfolio-Projects/README.md)
+
 ## Skills
 Python · Power BI · Excel (Power Query, Power Pivot) · DAX · VBA · Tableau · BigQuery
 
