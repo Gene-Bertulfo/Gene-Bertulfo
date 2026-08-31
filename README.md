@@ -13,7 +13,7 @@ I hold an Operations Management degree and am self-taught in Python,
 BigQuery, Power BI, and Excel (Power Query, Power Pivot, DAX, VBA).
 
 ## You can access my projects here:
-[My Portfolio](./https://github.com/Gene-Bertulfo/Business-Analyst-Data-Analyst-Portfolio-Projects)
+[My Portfolio](https://github.com/Gene-Bertulfo/Business-Analyst-Data-Analyst-Portfolio-Projects)
 
 ## Skills
 Python · Power BI · Excel (Power Query, Power Pivot) · DAX · VBA · Tableau · BigQuery
