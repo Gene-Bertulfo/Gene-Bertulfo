@@ -16,7 +16,7 @@ BigQuery, Power BI, and Excel (Power Query, Power Pivot, DAX, VBA).
 [My Portfolio](https://github.com/Gene-Bertulfo/Business-Analyst-Data-Analyst-Portfolio-Projects)
 
 ## Skills
-Python · Power BI · Excel (Power Query, Power Pivot) · DAX · VBA · Tableau · BigQuery
+Python · Power BI · Excel (Power Query, Power Pivot) · DAX · Tableau · BigQuery
 
 ## Looking for
 Business Analyst / Data Analyst roles where I can apply this operations and
